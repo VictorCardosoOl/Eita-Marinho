@@ -18,7 +18,7 @@ Tem como objetivo treinar:
 
 ## Instrução de uso:
 
-- Acesse o site: https://github.com/Victorcardoso-GG23/Criador-de-Personagens-Aleatorios.
+- Acesse o link - 
 
 ## Licença para: 
 
