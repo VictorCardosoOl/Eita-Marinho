@@ -24,4 +24,4 @@ Tem como objetivo treinar:
 
 - Uso educacional.
 
-<img src="/img/marinho.png">
+<img src="/img/VV.png">
