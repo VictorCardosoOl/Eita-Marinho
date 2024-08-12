@@ -23,3 +23,5 @@ Tem como objetivo treinar:
 ## Licença para: 
 
 - Uso educacional.
+
+<img src="/img/marinho.png">
